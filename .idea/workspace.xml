@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4804d6c8-d6a6-44ae-8a67-7eed495ddd38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1591434180159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fATij2HAD3JuGBejFo2XzysiJA" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591502997337" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1954023" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Application.ValidBST">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.Anagram" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.KthLargest" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.StackTest" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.TwoSum" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="validbst.ValidBST" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validbst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidBST" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.KthLargest" />
+        <item itemvalue="Application.StackTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4804d6c8-d6a6-44ae-8a67-7eed495ddd38" name="Default Changelist" comment="" />
+      <created>1591415958042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591415958042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="803" key="#Project_Structure" timestamp="1595663576808">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="803" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1595663576808" />
+    <state x="428" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595668927036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="428" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1595668927036" />
+    <state x="585" y="358" width="474" height="486" key="#xdebugger.evaluate" timestamp="1595774399691">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="585" y="358" width="474" height="486" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1595774399691" />
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom" timestamp="1595907801016">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801016" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595815524743" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1595663616007" />
+    <state width="1878" height="367" key="GridCell.Tab.0.center" timestamp="1595907801015">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801015" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595815524742" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1595663616006" />
+    <state width="1878" height="367" key="GridCell.Tab.0.left" timestamp="1595907801014">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801014" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595815524742" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1595663616006" />
+    <state width="1878" height="367" key="GridCell.Tab.0.right" timestamp="1595907801016">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801016" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595815524742" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1595663616006" />
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom" timestamp="1595907801019">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801019" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595815524736" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.23.1440.803@0.23.1440.803" timestamp="1595663616009" />
+    <state width="1878" height="367" key="GridCell.Tab.1.center" timestamp="1595907801018">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801018" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1595815524735" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.23.1440.803@0.23.1440.803" timestamp="1595663616007" />
+    <state width="1878" height="367" key="GridCell.Tab.1.left" timestamp="1595907801017">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801017" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1595815524735" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.23.1440.803@0.23.1440.803" timestamp="1595663616007" />
+    <state width="1878" height="367" key="GridCell.Tab.1.right" timestamp="1595907801019">
+      <screen x="-1920" y="-71" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-71.1920.1080@-1920.-71.1920.1080" timestamp="1595907801019" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595815524736" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.23.1440.803@0.23.1440.803" timestamp="1595663616008" />
+    <state x="565" y="233" key="refactoring.ChangeSignatureDialog" timestamp="1595688985016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="565" y="233" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1595688985016" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595767713319">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595767713319" />
+  </component>
+</project>
