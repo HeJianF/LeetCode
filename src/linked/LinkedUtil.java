@@ -1,5 +1,8 @@
 package linked;
 
+import java.util.Arrays;
+import java.util.List;
+
 class LinkedUtil {
 
     /**
@@ -9,7 +12,7 @@ class LinkedUtil {
      * @param head
      * @return
      */
-    static ListNode reverseList(ListNode head) {
+    public static ListNode reverseList(ListNode head) {
         ListNode pre = null, next;
         while (head != null) {
             next = head.next;
@@ -157,5 +160,32 @@ class LinkedUtil {
             head = next;
         }
         return pre;
+    }
+
+    public static void main(String[] args) {
+        //Scanner in = new Scanner(System.in);
+        //int a = in.nextInt();
+        //System.out.println(a);
+        int[] sum = new int[]{10, 11, 12, 13, 51, 101, 16};
+        System.out.println(Arrays.toString(sortArrayByParity(sum)));
+    }
+
+    public static int[] sortArrayByParity(int[] A) {
+        if (A == null) return null;
+        int pre = 0, next = A.length - 1;
+        while (pre < next) {
+            if (A[pre] % 2 != 0 && A[next] % 2 == 0) {
+                int a = A[pre];
+                A[pre] = A[next];
+                A[next] = a;
+            }
+            if (A[pre] % 2 == 0) {
+                pre++;
+            }
+            if (A[next] % 2 != 0) {
+                next--;
+            }
+        }
+        return A;
     }
 }

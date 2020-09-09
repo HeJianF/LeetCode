@@ -1,9 +1,14 @@
 package stack;
 
+import sun.jvm.hotspot.HelloWorld;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class StackTest {
 
     public static void main(String[] args) {
-        //System.out.println(StackUtils.isValid("([{{{{[][][()]}}}}])"));
+        System.out.println(StackUtils.isValid("([{{{{[][][()]}}}}])"));
         MyStack queue = new MyStack();
         queue.push(1);
         queue.push(2);

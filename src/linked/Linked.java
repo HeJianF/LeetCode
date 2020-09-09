@@ -27,8 +27,11 @@ public class Linked {
         //ListNode node = LinkedUtil.swapPairs(node1);
         //boolean has = LinkedUtil.hasCycle(node1);
         //ListNode node = LinkedUtil.hasCycleTwo(node1);
-        ListNode node = LinkedUtil.reverseKGroup(node1, 2);
-        System.out.println(node);
+        ListNode node = LinkedUtil.reverseList(node1);
+        while (node != null) {
+            System.out.println(node.val);
+            node = node.next;
+        }
     }
 
 }
